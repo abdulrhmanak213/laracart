@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'abdulrhmanak/laracart',
+        'name' => 'abdulrhmanak213/laracart',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => NULL,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'abdulrhmanak/laracart' => array(
+        'abdulrhmanak213/laracart' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => NULL,

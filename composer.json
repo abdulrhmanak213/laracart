@@ -1,5 +1,5 @@
 {
-    "name": "abdulrhmanak/laracart",
+    "name": "abdulrhmanak213/laracart",
     "description": "cart for e-commerce project in laravel",
     "license": "MIT",
     "version": "0.0.1",
@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "abdulrhmanak\\laracart\\LaraCartServiceProvider"
+                "abdulrhmanak213\\laracart\\LaraCartServiceProvider"
             ]
         }
     }
