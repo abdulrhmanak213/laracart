@@ -1,0 +1,25 @@
+{
+    "name": "abdulrhmanak/laracart",
+    "description": "cart for e-commerce project in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abdulrhmanak",
+            "email": "abdulrhmanak213@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "abdulrhmanak\\laracart\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "abdulrhmanak\\laracart\\LaraCartServiceProvider"
+            ]
+        }
+    }
+}
